@@ -1,0 +1,1567 @@
+.ann3 {
+    margin-top: 15px;
+    display:flex;
+    border-radius: 8px;
+    border-style:outset;
+    padding: 0px 10px;
+    margin-right: 850px;
+    cursor: pointer;
+}
+
+.ann4 {
+    margin-top: 15px;
+    display:flex;
+    border-radius: 8px;
+    border-style:outset;
+    padding: 0px 10px;
+    margin-right: 850px;
+    cursor: pointer;
+}
+
+
+#fees{
+    
+    background:greenyellow;
+    color:darkgreen;
+    border-radius: 18px;
+    padding:3px 10px;
+    text-align: center;
+    margin:3px;
+    cursor: pointer;
+    margin-top: 30px;
+    
+}
+
+.payfees{
+    margin-left: 330px;
+}
+
+#ment{
+    
+    background:lightskyblue;
+    color:blue;
+    border-radius: 18px;
+    padding:3px 10px;
+    text-align: center;
+    margin:3px;
+    cursor: pointer;
+    margin-top: 30px;
+    
+}
+
+.announce{
+    margin-left: 340px;
+}
+
+
+
+#iconfeedback{
+    margin-top:235px;
+    display: flex;
+}
+
+#thumbsupfeedback{
+    display:flex;
+}
+
+#textpopup{
+    width:380px;
+    height:100px;
+    text-align: left;
+}
+
+#submit{
+    display: flex;
+}
+
+#cancel{
+    margin-left: 261px;
+}
+
+#share{
+    margin-left: 10px;
+    color: blue;
+}
+
+@media only screen and (max-width: 1500px){
+    .ann3 {
+        margin-top: 15px;
+        display:flex;
+        border-radius: 8px;
+        border-style:outset;
+        padding: 0px 10px;
+        margin-right: 550px;
+        cursor: pointer;
+    }
+    
+    .ann4 {
+        margin-top: 15px;
+        display:flex;
+        border-radius: 8px;
+        border-style:outset;
+        padding: 0px 10px;
+        margin-right: 550px;
+        cursor: pointer;
+    }
+    
+    
+    #fees{
+        
+        background:greenyellow;
+        color:darkgreen;
+        border-radius: 18px;
+        padding:3px 10px;
+        text-align: center;
+        margin:3px;
+        cursor: pointer;
+        margin-top: 30px;
+        
+    }
+    
+    .payfees{
+        margin-left: 450px;
+    }
+    
+    #ment{
+        
+        background:lightskyblue;
+        color:blue;
+        border-radius: 18px;
+        padding:3px 10px;
+        text-align: center;
+        margin:3px;
+        cursor: pointer;
+        margin-top: 30px;
+        
+    }
+    
+    .announce{
+        margin-left: 300px;
+    }
+    
+    
+    
+    #iconfeedback{
+        margin-top:180px;
+        display: flex;
+    }
+    
+    #thumbsupfeedback{
+        display:flex;
+    }
+    
+    #textpopup{
+        width:380px;
+        height:100px;
+        text-align: left;
+    }
+    
+    #submit{
+        display: flex;
+    }
+    
+    #cancel{
+        margin-left: 261px;
+    }
+    
+    #share{
+        margin-left: 10px;
+        color: blue;
+    }
+    
+}
+
+@media only screen and (max-width: 1289px){
+    .ann3 {
+        margin-top: 15px;
+        display:flex;
+        border-radius: 8px;
+        border-style:outset;
+        padding: 0px 10px;
+        margin-right: 550px;
+        cursor: pointer;
+    }
+    
+    .ann4 {
+        margin-top: 15px;
+        display:flex;
+        border-radius: 8px;
+        border-style:outset;
+        padding: 0px 10px;
+        margin-right: 550px;
+        cursor: pointer;
+    }
+    
+    
+    #fees{
+        
+        background:greenyellow;
+        color:darkgreen;
+        border-radius: 18px;
+        padding:3px 10px;
+        text-align: center;
+        margin:3px;
+        cursor: pointer;
+        margin-top: 30px;
+        
+    }
+    
+    .payfees{
+        margin-left: 340px;
+    }
+    
+    #ment{
+        
+        background:lightskyblue;
+        color:blue;
+        border-radius: 18px;
+        padding:3px 10px;
+        text-align: center;
+        margin:3px;
+        cursor: pointer;
+        margin-top: 30px;
+        
+    }
+    
+    .announce{
+        margin-left: 340px;
+    }
+    
+    
+    
+    #iconfeedback{
+        margin-top:180px;
+        display: flex;
+    }
+    
+    #thumbsupfeedback{
+        display:flex;
+    }
+    
+    #textpopup{
+        width:380px;
+        height:100px;
+        text-align: left;
+    }
+    
+    #submit{
+        display: flex;
+    }
+    
+    #cancel{
+        margin-left: 261px;
+    }
+    
+    #share{
+        margin-left: 10px;
+        color: blue;
+    }
+    
+}
+
+@media only screen and (max-width: 1180px){
+    .ann3 {
+        margin-top: 15px;
+        display:flex;
+        border-radius: 8px;
+        border-style:outset;
+        padding: 0px 10px;
+        margin-right: 400px;
+        cursor: pointer;
+    }
+    
+    .ann4 {
+        margin-top: 15px;
+        display:flex;
+        border-radius: 8px;
+        border-style:outset;
+        padding: 0px 10px;
+        margin-right: 400px;
+        cursor: pointer;
+    }
+    
+    
+    #fees{
+        
+        background:greenyellow;
+        color:darkgreen;
+        border-radius: 18px;
+        padding:3px 10px;
+        text-align: center;
+        margin:3px;
+        cursor: pointer;
+        margin-top: 30px;
+        
+    }
+    
+    .payfees{
+        margin-left: 380px;
+    }
+    
+    #ment{
+        
+        background:lightskyblue;
+        color:blue;
+        border-radius: 18px;
+        padding:3px 10px;
+        text-align: center;
+        margin:3px;
+        cursor: pointer;
+        margin-top: 30px;
+        
+    }
+    
+    .announce{
+        margin-left: 340px;
+    }
+    
+    
+    
+    #iconfeedback{
+        margin-top:150px;
+        display: flex;
+    }
+    
+    #thumbsupfeedback{
+        display:flex;
+    }
+    
+    #textpopup{
+        width:380px;
+        height:100px;
+        text-align: left;
+    }
+    
+    #submit{
+        display: flex;
+    }
+    
+    #cancel{
+        margin-left: 261px;
+    }
+    
+    #share{
+        margin-left: 10px;
+        color: blue;
+    }
+    
+}
+
+@media only screen and (max-width: 1070px){
+    .ann3 {
+        margin-top: 15px;
+        display:flex;
+        border-radius: 8px;
+        border-style:outset;
+        padding: 0px 10px;
+        margin-right: 300px;
+        cursor: pointer;
+    }
+    
+    .ann4 {
+        margin-top: 15px;
+        display:flex;
+        border-radius: 8px;
+        border-style:outset;
+        padding: 0px 10px;
+        margin-right: 300px;
+        cursor: pointer;
+    }
+    
+    
+    #fees{
+        
+        background:greenyellow;
+        color:darkgreen;
+        border-radius: 18px;
+        padding:3px 10px;
+        text-align: center;
+        margin:3px;
+        cursor: pointer;
+        margin-top: 30px;
+        
+    }
+    
+    .payfees{
+        margin-left: 380px;
+    }
+    
+    #ment{
+        
+        background:lightskyblue;
+        color:blue;
+        border-radius: 18px;
+        padding:3px 10px;
+        text-align: center;
+        margin:3px;
+        cursor: pointer;
+        margin-top: 30px;
+        
+    }
+    
+    .announce{
+        margin-left: 340px;
+    }
+    
+    
+    
+    #iconfeedback{
+        margin-top:150px;
+        display: flex;
+    }
+    
+    #thumbsupfeedback{
+        display:flex;
+    }
+    
+    #textpopup{
+        width:380px;
+        height:100px;
+        text-align: left;
+    }
+    
+    #submit{
+        display: flex;
+    }
+    
+    #cancel{
+        margin-left: 261px;
+    }
+    
+    #share{
+        margin-left: 10px;
+        color: blue;
+    }
+    
+}
+
+@media only screen and (max-width: 976px){
+    .ann3 {
+        margin-top: 15px;
+        display:flex;
+        border-radius: 8px;
+        border-style:outset;
+        padding: 0px 10px;
+        margin-right: 200px;
+        cursor: pointer;
+    }
+    
+    .ann4 {
+        margin-top: 15px;
+        display:flex;
+        border-radius: 8px;
+        border-style:outset;
+        padding: 0px 10px;
+        margin-right: 200px;
+        cursor: pointer;
+    }
+    
+    
+    #fees{
+        
+        background:greenyellow;
+        color:darkgreen;
+        border-radius: 18px;
+        padding:3px 10px;
+        text-align: center;
+        margin:3px;
+        cursor: pointer;
+        margin-top: 30px;
+        
+    }
+    
+    .payfees{
+        margin-left: 380px;
+    }
+    
+    #ment{
+        
+        background:lightskyblue;
+        color:blue;
+        border-radius: 18px;
+        padding:3px 10px;
+        text-align: center;
+        margin:3px;
+        cursor: pointer;
+        margin-top: 30px;
+        
+    }
+    
+    .announce{
+        margin-left: 340px;
+    }
+    
+    
+    
+    #iconfeedback{
+        margin-top:140px;
+        display: flex;
+    }
+    
+    #thumbsupfeedback{
+        display:flex;
+    }
+    
+    #textpopup{
+        width:380px;
+        height:100px;
+        text-align: left;
+    }
+    
+    #submit{
+        display: flex;
+    }
+    
+    #cancel{
+        margin-left: 261px;
+    }
+    
+    #share{
+        margin-left: 10px;
+        color: blue;
+    }
+    
+}
+
+@media only screen and (max-width: 880px){
+    .ann3 {
+        margin-top: 15px;
+        display:flex;
+        border-radius: 8px;
+        border-style:outset;
+        padding: 0px 10px;
+        margin-right: 150px;
+        cursor: pointer;
+    }
+    
+    .ann4 {
+        margin-top: 15px;
+        display:flex;
+        border-radius: 8px;
+        border-style:outset;
+        padding: 0px 10px;
+        margin-right: 150px;
+        cursor: pointer;
+    }
+    
+    
+    #fees{
+        
+        background:greenyellow;
+        color:darkgreen;
+        border-radius: 18px;
+        padding:3px 10px;
+        text-align: center;
+        margin:3px;
+        cursor: pointer;
+        margin-top: 30px;
+        
+    }
+    
+    .payfees{
+        margin-left: 380px;
+    }
+    
+    #ment{
+        
+        background:lightskyblue;
+        color:blue;
+        border-radius: 18px;
+        padding:3px 10px;
+        text-align: center;
+        margin:3px;
+        cursor: pointer;
+        margin-top: 30px;
+        
+    }
+    
+    .announce{
+        margin-left: 340px;
+    }
+    
+    
+    
+    #iconfeedback{
+        margin-top:140px;
+        display: flex;
+    }
+    
+    #thumbsupfeedback{
+        display:flex;
+    }
+    
+    #textpopup{
+        width:380px;
+        height:100px;
+        text-align: left;
+    }
+    
+    #submit{
+        display: flex;
+    }
+    
+    #cancel{
+        margin-left: 261px;
+    }
+    
+    #share{
+        margin-left: 10px;
+        color: blue;
+    }
+    
+}
+
+@media only screen and (max-width: 827px){
+    .ann3 {
+        margin-top: 15px;
+        display:flex;
+        border-radius: 8px;
+        border-style:outset;
+        padding: 0px 10px;
+        margin-right: 100px;
+        cursor: pointer;
+    }
+    
+    .ann4 {
+        margin-top: 15px;
+        display:flex;
+        border-radius: 8px;
+        border-style:outset;
+        padding: 0px 10px;
+        margin-right: 100px;
+        cursor: pointer;
+    }
+    
+    
+    #fees{
+        
+        background:greenyellow;
+        color:darkgreen;
+        border-radius: 18px;
+        padding:3px 10px;
+        text-align: center;
+        margin:3px;
+        cursor: pointer;
+        margin-top: 30px;
+        
+    }
+    
+    .payfees{
+        margin-left: 380px;
+    }
+    
+    #ment{
+        
+        background:lightskyblue;
+        color:blue;
+        border-radius: 18px;
+        padding:3px 10px;
+        text-align: center;
+        margin:3px;
+        cursor: pointer;
+        margin-top: 30px;
+        
+    }
+    
+    .announce{
+        margin-left: 340px;
+    }
+    
+    
+    
+    #iconfeedback{
+        margin-top:140px;
+        display: flex;
+    }
+    
+    #thumbsupfeedback{
+        display:flex;
+    }
+    
+    #textpopup{
+        width:380px;
+        height:100px;
+        text-align: left;
+    }
+    
+    #submit{
+        display: flex;
+    }
+    
+    #cancel{
+        margin-left: 261px;
+    }
+    
+    #share{
+        margin-left: 10px;
+        color: blue;
+    }
+    
+}
+
+@media only screen and (max-width: 774px){
+    .ann3 {
+        margin-top: 15px;
+        display:flex;
+        border-radius: 8px;
+        border-style:outset;
+        padding: 0px 10px;
+        margin-right: 25px;
+        cursor: pointer;
+    }
+    
+    .ann4 {
+        margin-top: 15px;
+        display:flex;
+        border-radius: 8px;
+        border-style:outset;
+        padding: 0px 10px;
+        margin-right: 25px;
+        cursor: pointer;
+    }
+    #name{
+        margin-left: 15px;
+        margin-top: 20px;
+        margin-bottom: 10px;
+        font-size: small;
+    }
+    
+    #fees{
+        
+        background:greenyellow;
+        color:darkgreen;
+        border-radius: 18px;
+        padding:3px 10px;
+        text-align: center;
+        margin:3px;
+        cursor: pointer;
+        margin-top: 30px;
+        font-size: small;
+    }
+
+    #due{
+        font-size: small;
+    }
+
+    #noti{
+        font-size: small;
+    }
+
+    #admin{
+        font-size: small;
+    }
+    
+    
+    .payfees{
+        margin-left: 340px;
+    }
+    
+    #ment{
+        
+        background:lightskyblue;
+        color:blue;
+        border-radius: 18px;
+        padding:3px 10px;
+        text-align: center;
+        margin:3px;
+        cursor: pointer;
+        margin-top: 30px;
+        
+    }
+    
+    .announce{
+        margin-left: 300px;
+    }
+    
+    
+    
+    #iconfeedback{
+        margin-top:190px;
+        display: flex;
+    }
+    
+    #thumbsupfeedback{
+        display:flex;
+    }
+    
+    #textpopup{
+        width:380px;
+        height:100px;
+        text-align: left;
+    }
+    
+    #submit{
+        display: flex;
+    }
+    
+    #cancel{
+        margin-left: 295px;
+        font-size: small;
+    }
+    
+    #share{
+        margin-left: 10px;
+        color: blue;
+        font-size: small;
+    }
+    
+}
+
+@media only screen and (max-width: 720px){
+    .ann3 {
+        margin-top: 15px;
+        display:flex;
+        border-radius: 8px;
+        border-style:outset;
+        padding: 0px 10px;
+        margin-right: 25px;
+        cursor: pointer;
+    }
+    
+    .ann4 {
+        margin-top: 15px;
+        display:flex;
+        border-radius: 8px;
+        border-style:outset;
+        padding: 0px 10px;
+        margin-right: 25px;
+        cursor: pointer;
+    }
+    #name{
+        margin-left: 15px;
+        margin-top: 20px;
+        margin-bottom: 10px;
+        font-size: small;
+    }
+    
+    #fees{
+        
+        background:greenyellow;
+        color:darkgreen;
+        border-radius: 18px;
+        padding:3px 10px;
+        text-align: center;
+        margin:3px;
+        cursor: pointer;
+        margin-top: 30px;
+        font-size: small;
+    }
+
+    #due{
+        font-size: small;
+    }
+
+    #noti{
+        font-size: small;
+    }
+
+    #admin{
+        font-size: small;
+    }
+    
+    
+    .payfees{
+        margin-left: 340px;
+    }
+    
+    #ment{
+        
+        background:lightskyblue;
+        color:blue;
+        border-radius: 18px;
+        padding:3px 10px;
+        text-align: center;
+        margin:3px;
+        cursor: pointer;
+        margin-top: 30px;
+        
+    }
+    
+    .announce{
+        margin-left: 260px;
+    }
+    
+    
+    
+    #iconfeedback{
+        margin-top:150px;
+        display: flex;
+    }
+    
+    #thumbsupfeedback{
+        display:flex;
+    }
+    
+    #textpopup{
+        width:380px;
+        height:100px;
+        text-align: left;
+    }
+    
+    #submit{
+        display: flex;
+    }
+    
+    #cancel{
+        margin-left: 295px;
+        font-size: small;
+    }
+    
+    #share{
+        margin-left: 10px;
+        color: blue;
+        font-size: small;
+    }
+    
+}
+
+@media only screen and (max-width: 668px){
+    .ann3 {
+        margin-top: 15px;
+        display:flex;
+        border-radius: 8px;
+        border-style:outset;
+        padding: 0px 10px;
+        margin-right: 25px;
+        cursor: pointer;
+    }
+    
+    .ann4 {
+        margin-top: 15px;
+        display:flex;
+        border-radius: 8px;
+        border-style:outset;
+        padding: 0px 10px;
+        margin-right: 25px;
+        cursor: pointer;
+    }
+    #name{
+        margin-left: 15px;
+        margin-top: 20px;
+        margin-bottom: 10px;
+        font-size: small;
+    }
+    
+    #fees{
+        
+        background:greenyellow;
+        color:darkgreen;
+        border-radius: 18px;
+        padding:3px 10px;
+        text-align: center;
+        margin:3px;
+        cursor: pointer;
+        margin-top: 30px;
+        font-size: small;
+    }
+
+    #due{
+        font-size: small;
+    }
+
+    #noti{
+        font-size: small;
+    }
+
+    #admin{
+        font-size: small;
+    }
+    
+    
+    .payfees{
+        margin-left: 320px;
+    }
+    
+    #ment{
+        
+        background:lightskyblue;
+        color:blue;
+        border-radius: 18px;
+        padding:3px 10px;
+        text-align: center;
+        margin:3px;
+        cursor: pointer;
+        margin-top: 30px;
+        
+    }
+    
+    .announce{
+        margin-left: 250px;
+    }
+    
+    
+    
+    #iconfeedback{
+        margin-top:150px;
+        display: flex;
+    }
+    
+    #thumbsupfeedback{
+        display:flex;
+    }
+    
+    #textpopup{
+        width:380px;
+        height:100px;
+        text-align: left;
+    }
+    
+    #submit{
+        display: flex;
+    }
+    
+    #cancel{
+        margin-left: 295px;
+        font-size: small;
+    }
+    
+    #share{
+        margin-left: 10px;
+        color: blue;
+        font-size: small;
+    }
+    
+}
+
+@media only screen and (max-width: 597px){
+    .ann3 {
+        margin-top: 15px;
+        display:flex;
+        border-radius: 8px;
+        border-style:outset;
+        padding: 0px 10px;
+        margin-right: 25px;
+        cursor: pointer;
+    }
+    
+    .ann4 {
+        margin-top: 15px;
+        display:flex;
+        border-radius: 8px;
+        border-style:outset;
+        padding: 0px 10px;
+        margin-right: 25px;
+        cursor: pointer;
+    }
+    #name{
+        margin-left: 15px;
+        margin-top: 20px;
+        margin-bottom: 10px;
+        font-size: small;
+    }
+    
+    #fees{
+        
+        background:greenyellow;
+        color:darkgreen;
+        border-radius: 18px;
+        padding:3px 10px;
+        text-align: center;
+        margin:3px;
+        cursor: pointer;
+        margin-top: 30px;
+        font-size: small;
+    }
+
+    #due{
+        font-size: small;
+    }
+
+    #noti{
+        font-size: small;
+    }
+
+    #admin{
+        font-size: small;
+    }
+    
+    
+    .payfees{
+        margin-left: 300px;
+    }
+    
+    #ment{
+        
+        background:lightskyblue;
+        color:blue;
+        border-radius: 18px;
+        padding:3px 10px;
+        text-align: center;
+        margin:3px;
+        cursor: pointer;
+        margin-top: 30px;
+        
+    }
+    
+    .announce{
+        margin-left: 220px;
+    }
+    
+    
+    
+    #iconfeedback{
+        margin-top:170px;
+        display: flex;
+    }
+    
+    #thumbsupfeedback{
+        display:flex;
+    }
+    
+    #textpopup{
+        width:280px;
+        height:100px;
+        text-align: left;
+    }
+    
+    #submit{
+        display: flex;
+    }
+    
+    #cancel{
+        margin-left: 295px;
+        font-size: small;
+    }
+    
+    #share{
+        margin-left: 10px;
+        color: blue;
+        font-size: small;
+    }
+    
+}
+
+@media only screen and (max-width: 597px){
+    .ann3 {
+        margin-top: 15px;
+        display:flex;
+        border-radius: 8px;
+        border-style:outset;
+        padding: 0px 10px;
+        margin-right: 0px;
+        cursor: pointer;
+    }
+    
+    .ann4 {
+        margin-top: 15px;
+        display:flex;
+        border-radius: 8px;
+        border-style:outset;
+        padding: 0px 10px;
+        margin-right: 0px;
+        cursor: pointer;
+    }
+    #name{
+        margin-left: 15px;
+        margin-top: 20px;
+        margin-bottom: 10px;
+        font-size: small;
+    }
+    
+    #fees{
+        
+        background:greenyellow;
+        color:darkgreen;
+        border-radius: 18px;
+        padding:3px 10px;
+        text-align: center;
+        margin:3px;
+        cursor: pointer;
+        margin-top: 30px;
+        font-size: small;
+    }
+
+    #due{
+        font-size: small;
+    }
+
+    #noti{
+        font-size: small;
+    }
+
+    #admin{
+        font-size: small;
+    }
+    
+    
+    .payfees{
+        margin-left: 280px;
+    }
+    
+    #ment{
+        
+        background:lightskyblue;
+        color:blue;
+        border-radius: 18px;
+        padding:3px 10px;
+        text-align: center;
+        margin:3px;
+        cursor: pointer;
+        margin-top: 30px;
+        
+    }
+    
+    .announce{
+        margin-left: 210px;
+    }
+    
+    
+    
+    #iconfeedback{
+        margin-top:170px;
+        display: flex;
+    }
+    
+    #thumbsupfeedback{
+        display:flex;
+    }
+    
+    #textpopup{
+        width:280px;
+        height:100px;
+        text-align: left;
+    }
+    
+    #submit{
+        display: flex;
+    }
+    
+    #cancel{
+        margin-left: 295px;
+        font-size: small;
+    }
+    
+    #share{
+        margin-left: 10px;
+        color: blue;
+        font-size: small;
+    }
+    
+}
+
+@media only screen and (max-width: 471px){
+    .ann3 {
+        margin-top: 15px;
+        display:flex;
+        border-radius: 8px;
+        border-style:outset;
+        padding: 0px 10px;
+        margin-right: 0px;
+        cursor: pointer;
+    }
+    
+    .ann4 {
+        margin-top: 15px;
+        display:flex;
+        border-radius: 8px;
+        border-style:outset;
+        padding: 0px 10px;
+        margin-right: 0px;
+        cursor: pointer;
+    }
+    #name{
+        margin-left: 15px;
+        margin-top: 20px;
+        margin-bottom: 10px;
+        font-size: small;
+    }
+    
+    #fees{
+        
+        background:greenyellow;
+        color:darkgreen;
+        border-radius: 18px;
+        padding:3px 10px;
+        text-align: center;
+        margin:3px;
+        cursor: pointer;
+        margin-top: 30px;
+        font-size: small;
+    }
+
+    #due{
+        font-size: small;
+    }
+
+    #noti{
+        font-size: small;
+    }
+
+    #admin{
+        font-size: small;
+    }
+    
+    
+    .payfees{
+        margin-left: 240px;
+    }
+    
+    #ment{
+        
+        background:lightskyblue;
+        color:blue;
+        border-radius: 18px;
+        padding:3px 10px;
+        text-align: center;
+        margin:3px;
+        cursor: pointer;
+        margin-top: 30px;
+        
+    }
+    
+    .announce{
+        margin-left: 150px;
+    }
+    
+    
+    
+    #iconfeedback{
+        margin-top:170px;
+        display: flex;
+    }
+    
+    #thumbsupfeedback{
+        display:flex;
+    }
+    
+    #textpopup{
+        width:280px;
+        height:100px;
+        text-align: left;
+    }
+    
+    #submit{
+        display: flex;
+    }
+    
+    #cancel{
+        margin-left: 295px;
+        font-size: small;
+    }
+    
+    #share{
+        margin-left: 10px;
+        color: blue;
+        font-size: small;
+    }
+    
+}
+
+@media only screen and (max-width: 431px){
+    .ann3 {
+        margin-top: 15px;
+        display:flex;
+        border-radius: 8px;
+        border-style:outset;
+        padding: 0px 10px;
+        margin-right: 0px;
+        cursor: pointer;
+    }
+    
+    .ann4 {
+        margin-top: 15px;
+        display:flex;
+        border-radius: 8px;
+        border-style:outset;
+        padding: 0px 10px;
+        margin-right: 0px;
+        cursor: pointer;
+    }
+    #name{
+        margin-left: 15px;
+        margin-top: 20px;
+        margin-bottom: 10px;
+        font-size: small;
+    }
+    
+    #fees{
+        
+        background:greenyellow;
+        color:darkgreen;
+        border-radius: 18px;
+        padding:3px 10px;
+        text-align: center;
+        margin:3px;
+        cursor: pointer;
+        margin-top: 30px;
+        font-size: small;
+    }
+
+    #due{
+        font-size: small;
+    }
+
+    #noti{
+        font-size: small;
+    }
+
+    #admin{
+        font-size: small;
+    }
+    
+    
+    .payfees{
+        margin-left: 210px;
+    }
+    
+    #ment{
+        
+        background:lightskyblue;
+        color:blue;
+        border-radius: 18px;
+        padding:3px 10px;
+        text-align: center;
+        margin:3px;
+        cursor: pointer;
+        margin-top: 30px;
+        
+    }
+    
+    .announce{
+        margin-left: 140px;
+    }
+    
+    
+    
+    #iconfeedback{
+        margin-top:230px;
+        display: flex;
+    }
+    
+    #thumbsupfeedback{
+        display:flex;
+    }
+    
+    #textpopup{
+        width:280px;
+        height:100px;
+        text-align: left;
+    }
+    
+    #submit{
+        display: flex;
+    }
+    
+    #cancel{
+        margin-left: 180px;
+        font-size: small;
+    }
+    
+    #share{
+        margin-left: 10px;
+        color: blue;
+        font-size: small;
+    }
+    
+}
+
+@media only screen and (max-width: 379px){
+    .ann3 {
+        margin-top: 15px;
+        display:flex;
+        border-radius: 8px;
+        border-style:outset;
+        padding: 0px 10px;
+        margin-right: 0px;
+        cursor: pointer;
+    }
+    
+    .ann4 {
+        margin-top: 15px;
+        display:flex;
+        border-radius: 8px;
+        border-style:outset;
+        padding: 0px 10px;
+        margin-right: 0px;
+        cursor: pointer;
+    }
+    #name{
+        margin-left: 15px;
+        margin-top: 20px;
+        margin-bottom: 10px;
+        font-size: small;
+    }
+    
+    #fees{
+        
+        background:greenyellow;
+        color:darkgreen;
+        border-radius: 18px;
+        padding:3px 10px;
+        text-align: center;
+        margin:3px;
+        cursor: pointer;
+        margin-top: 30px;
+        font-size: small;
+    }
+
+    #due{
+        font-size: small;
+    }
+
+    #noti{
+        font-size: small;
+    }
+
+    #admin{
+        font-size: small;
+    }
+    
+    
+    .payfees{
+        margin-left: 160px;
+    }
+    
+    #ment{
+        
+        background:lightskyblue;
+        color:blue;
+        border-radius: 18px;
+        padding:3px 10px;
+        text-align: center;
+        margin:3px;
+        cursor: pointer;
+        margin-top: 30px;
+        
+    }
+    
+    .announce{
+        margin-left: 100px;
+    }
+    
+    
+    
+    #iconfeedback{
+        margin-top:230px;
+        display: flex;
+    }
+    
+    #thumbsupfeedback{
+        display:flex;
+    }
+    
+    #textpopup{
+        width:280px;
+        height:100px;
+        text-align: left;
+    }
+    
+    #submit{
+        display: flex;
+    }
+    
+    #cancel{
+        margin-left: 180px;
+        font-size: small;
+    }
+    
+    #share{
+        margin-left: 10px;
+        color: blue;
+        font-size: small;
+    }
+    
+}
+
+
+

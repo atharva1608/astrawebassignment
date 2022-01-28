@@ -1,0 +1,1524 @@
+.div p{
+text-align: left;
+padding-left: 20px;
+}
+
+#img1{
+    width:35px;
+    height:35px;
+    margin-top: 28px;
+}
+
+.ann1 {
+    display: flex;
+    background:white;
+    border-radius: 8px;
+    border-style:outset;
+    border-image-outset: 10px;
+    padding: 0px 15px;
+    margin-right: 850px;
+    cursor: pointer;
+
+}
+
+.ann2 {
+    margin-top: 15px;
+    display:flex;
+    border-radius: 8px;
+    border-style:outset;
+    padding: 0px 10px;
+    margin-right: 850px;
+    cursor: pointer;
+}
+
+#info{
+    display: flex
+}
+
+#name{
+    margin-left: 15px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+
+
+#absent{
+    background:lightcoral;
+    border-radius: 18px;
+    padding:3px 8px;
+    margin:3px;
+    cursor: pointer;
+    color:red;
+    margin-top: 30px;
+    text-align: center;
+}
+
+.attendance{
+    margin-left: 390px;
+}
+
+#score{
+    background:lightgoldenrodyellow;
+    border-radius: 18px;
+    padding:3px 8px;
+    text-align: center;
+    margin:3px;
+    cursor: pointer;
+    color:brown;
+    margin-top: 30px;
+}
+
+.marks{
+    margin-left: 390px;
+}
+
+#total{
+    margin-left:8px;
+    margin-top:30px;
+    font-size: large;
+    margin-top:10px;
+}
+
+#subject{
+    margin-bottom: 10px;
+}
+
+@media only screen and (max-width: 1500px){
+    #img1{
+        width:35px;
+        height:35px;
+        margin-top: 28px;
+    }
+    
+    .ann1 {
+        display: flex;
+        background:white;
+        border-radius: 8px;
+        border-style:outset;
+        border-image-outset: 10px;
+        padding: 0px 15px;
+        margin-right: 550px;
+        cursor: pointer;
+    
+    }
+    
+    .ann2 {
+        margin-top: 15px;
+        display:flex;
+        border-radius: 8px;
+        border-style:outset;
+        padding: 0px 10px;
+        margin-right: 550px;
+        cursor: pointer;
+    }
+    
+    #info{
+        display: flex
+    }
+    
+    #name{
+        margin-left: 15px;
+        margin-top: 20px;
+        margin-bottom: 10px;
+    }
+    
+    
+    
+    #absent{
+        background:lightcoral;
+        border-radius: 18px;
+        padding:3px 8px;
+        margin:3px;
+        cursor: pointer;
+        color:red;
+        margin-top: 30px;
+        text-align: center;
+    }
+    
+    .attendance{
+        margin-left: 530px;
+    }
+    
+    #score{
+        background:lightgoldenrodyellow;
+        border-radius: 18px;
+        padding:3px 8px;
+        text-align: center;
+        margin:3px;
+        cursor: pointer;
+        color:brown;
+        margin-top: 30px;
+    }
+    
+    .marks{
+        margin-left: 540px;
+    }
+    
+    #total{
+        margin-left:8px;
+        margin-top:30px;
+        font-size: large;
+        margin-top:10px;
+    }
+    
+    #subject{
+        margin-bottom: 10px;
+    }
+    
+}
+
+
+
+@media only screen and (max-width: 1289px){
+    #img1{
+        width:35px;
+        height:35px;
+        margin-top: 28px;
+    }
+    
+    .ann1 {
+        display: flex;
+        background:white;
+        border-radius: 8px;
+        border-style:outset;
+        border-image-outset: 10px;
+        padding: 0px 15px;
+        margin-right: 550px;
+        cursor: pointer;
+    
+    }
+    
+    .ann2 {
+        margin-top: 15px;
+        display:flex;
+        border-radius: 8px;
+        border-style:outset;
+        padding: 0px 10px;
+        margin-right: 550px;
+        cursor: pointer;
+    }
+    
+    #info{
+        display: flex
+    }
+    
+    #name{
+        margin-left: 15px;
+        margin-top: 20px;
+        margin-bottom: 10px;
+    }
+    
+    
+    
+    #absent{
+        background:lightcoral;
+        border-radius: 18px;
+        padding:3px 8px;
+        margin:3px;
+        cursor: pointer;
+        color:red;
+        margin-top: 30px;
+        text-align: center;
+    }
+    
+    .attendance{
+        margin-left: 410px;
+    }
+    
+    #score{
+        background:lightgoldenrodyellow;
+        border-radius: 18px;
+        padding:3px 8px;
+        text-align: center;
+        margin:3px;
+        cursor: pointer;
+        color:brown;
+        margin-top: 30px;
+    }
+    
+    .marks{
+        margin-left: 410px;
+    }
+    
+    #total{
+        margin-left:8px;
+        margin-top:30px;
+        font-size: large;
+        margin-top:10px;
+    }
+    
+    #subject{
+        margin-bottom: 10px;
+    }
+    
+}
+
+@media only screen and (max-width: 1180px){
+    #img1{
+        width:35px;
+        height:35px;
+        margin-top: 28px;
+    }
+    
+    .ann1 {
+        display: flex;
+        background:white;
+        border-radius: 8px;
+        border-style:outset;
+        border-image-outset: 10px;
+        padding: 0px 15px;
+        margin-right: 400px;
+        cursor: pointer;
+    
+    }
+    
+    .ann2 {
+        margin-top: 15px;
+        display:flex;
+        border-radius: 8px;
+        border-style:outset;
+        padding: 0px 10px;
+        margin-right: 400px;
+        cursor: pointer;
+    }
+    
+    #info{
+        display: flex
+    }
+    
+    #name{
+        margin-left: 15px;
+        margin-top: 20px;
+        margin-bottom: 10px;
+    }
+    
+    
+    
+    #absent{
+        background:lightcoral;
+        border-radius: 18px;
+        padding:3px 8px;
+        margin:3px;
+        cursor: pointer;
+        color:red;
+        margin-top: 30px;
+        text-align: center;
+    }
+    
+    .attendance{
+        margin-left: 450px;
+    }
+    
+    #score{
+        background:lightgoldenrodyellow;
+        border-radius: 18px;
+        padding:3px 8px;
+        text-align: center;
+        margin:3px;
+        cursor: pointer;
+        color:brown;
+        margin-top: 30px;
+    }
+    
+    .marks{
+        margin-left: 455px;
+    }
+    
+    #total{
+        margin-left:8px;
+        margin-top:30px;
+        font-size: large;
+        margin-top:10px;
+    }
+    
+    #subject{
+        margin-bottom: 10px;
+    }
+    
+}
+
+@media only screen and (max-width: 1070px){
+    #img1{
+        width:35px;
+        height:35px;
+        margin-top: 28px;
+    }
+    
+    .ann1 {
+        display: flex;
+        background:white;
+        border-radius: 8px;
+        border-style:outset;
+        border-image-outset: 10px;
+        padding: 0px 15px;
+        margin-right: 300px;
+        cursor: pointer;
+    
+    }
+    
+    .ann2 {
+        margin-top: 15px;
+        display:flex;
+        border-radius: 8px;
+        border-style:outset;
+        padding: 0px 10px;
+        margin-right: 300px;
+        cursor: pointer;
+    }
+    
+    #info{
+        display: flex
+    }
+    
+    #name{
+        margin-left: 15px;
+        margin-top: 20px;
+        margin-bottom: 10px;
+    }
+    
+    
+    
+    #absent{
+        background:lightcoral;
+        border-radius: 18px;
+        padding:3px 8px;
+        margin:3px;
+        cursor: pointer;
+        color:red;
+        margin-top: 30px;
+        text-align: center;
+    }
+    
+    .attendance{
+        margin-left: 450px;
+    }
+    
+    #score{
+        background:lightgoldenrodyellow;
+        border-radius: 18px;
+        padding:3px 8px;
+        text-align: center;
+        margin:3px;
+        cursor: pointer;
+        color:brown;
+        margin-top: 30px;
+    }
+    
+    .marks{
+        margin-left: 455px;
+    }
+    
+    #total{
+        margin-left:8px;
+        margin-top:30px;
+        font-size: large;
+        margin-top:10px;
+    }
+    
+    #subject{
+        margin-bottom: 10px;
+    }
+    
+}
+
+@media only screen and (max-width: 976px){
+    #img1{
+        width:35px;
+        height:35px;
+        margin-top: 28px;
+    }
+    
+    .ann1 {
+        display: flex;
+        background:white;
+        border-radius: 8px;
+        border-style:outset;
+        border-image-outset: 10px;
+        padding: 0px 15px;
+        margin-right: 200px;
+        cursor: pointer;
+    
+    }
+    
+    .ann2 {
+        margin-top: 15px;
+        display:flex;
+        border-radius: 8px;
+        border-style:outset;
+        padding: 0px 10px;
+        margin-right: 200px;
+        cursor: pointer;
+    }
+    
+    #info{
+        display: flex
+    }
+    
+    #name{
+        margin-left: 15px;
+        margin-top: 20px;
+        margin-bottom: 10px;
+    }
+    
+    
+    
+    #absent{
+        background:lightcoral;
+        border-radius: 18px;
+        padding:3px 8px;
+        margin:3px;
+        cursor: pointer;
+        color:red;
+        margin-top: 30px;
+        text-align: center;
+    }
+    
+    .attendance{
+        margin-left: 450px;
+    }
+    
+    #score{
+        background:lightgoldenrodyellow;
+        border-radius: 18px;
+        padding:3px 8px;
+        text-align: center;
+        margin:3px;
+        cursor: pointer;
+        color:brown;
+        margin-top: 30px;
+    }
+    
+    .marks{
+        margin-left: 455px;
+    }
+    
+    #total{
+        margin-left:8px;
+        margin-top:30px;
+        font-size: large;
+        margin-top:10px;
+    }
+    
+    #subject{
+        margin-bottom: 10px;
+    }
+    
+}
+
+@media only screen and (max-width: 880px){
+    #img1{
+        width:35px;
+        height:35px;
+        margin-top: 28px;
+    }
+    
+    .ann1 {
+        display: flex;
+        background:white;
+        border-radius: 8px;
+        border-style:outset;
+        border-image-outset: 10px;
+        padding: 0px 15px;
+        margin-right: 150px;
+        cursor: pointer;
+    
+    }
+    
+    .ann2 {
+        margin-top: 15px;
+        display:flex;
+        border-radius: 8px;
+        border-style:outset;
+        padding: 0px 10px;
+        margin-right: 150px;
+        cursor: pointer;
+    }
+    
+    #info{
+        display: flex
+    }
+    
+    #name{
+        margin-left: 15px;
+        margin-top: 20px;
+        margin-bottom: 10px;
+    }
+    
+    
+    
+    #absent{
+        background:lightcoral;
+        border-radius: 18px;
+        padding:3px 8px;
+        margin:3px;
+        cursor: pointer;
+        color:red;
+        margin-top: 30px;
+        text-align: center;
+    }
+    
+    .attendance{
+        margin-left: 450px;
+    }
+    
+    #score{
+        background:lightgoldenrodyellow;
+        border-radius: 18px;
+        padding:3px 8px;
+        text-align: center;
+        margin:3px;
+        cursor: pointer;
+        color:brown;
+        margin-top: 30px;
+    }
+    
+    .marks{
+        margin-left: 455px;
+    }
+    
+    #total{
+        margin-left:8px;
+        margin-top:30px;
+        font-size: large;
+        margin-top:10px;
+    }
+    
+    #subject{
+        margin-bottom: 10px;
+    }
+    
+}
+
+@media only screen and (max-width: 827px){
+    #img1{
+        width:35px;
+        height:35px;
+        margin-top: 28px;
+    }
+    
+    .ann1 {
+        display: flex;
+        background:white;
+        border-radius: 8px;
+        border-style:outset;
+        border-image-outset: 10px;
+        padding: 0px 15px;
+        margin-right: 100px;
+        cursor: pointer;
+    
+    }
+    
+    .ann2 {
+        margin-top: 15px;
+        display:flex;
+        border-radius: 8px;
+        border-style:outset;
+        padding: 0px 10px;
+        margin-right: 100px;
+        cursor: pointer;
+    }
+    
+    #info{
+        display: flex
+    }
+    
+    #name{
+        margin-left: 15px;
+        margin-top: 20px;
+        margin-bottom: 10px;
+    }
+    
+    
+    
+    #absent{
+        background:lightcoral;
+        border-radius: 18px;
+        padding:3px 8px;
+        margin:3px;
+        cursor: pointer;
+        color:red;
+        margin-top: 30px;
+        text-align: center;
+    }
+    
+    .attendance{
+        margin-left: 450px;
+    }
+    
+    #score{
+        background:lightgoldenrodyellow;
+        border-radius: 18px;
+        padding:3px 8px;
+        text-align: center;
+        margin:3px;
+        cursor: pointer;
+        color:brown;
+        margin-top: 30px;
+    }
+    
+    .marks{
+        margin-left: 455px;
+    }
+    
+    #total{
+        margin-left:8px;
+        margin-top:30px;
+        font-size: large;
+        margin-top:10px;
+    }
+    
+    #subject{
+        margin-bottom: 10px;
+    }
+    
+}
+
+@media only screen and (max-width: 774px){
+    #img1{
+        width:35px;
+        height:35px;
+        margin-top: 28px;
+    }
+    
+    .ann1 {
+        display: flex;
+        background:white;
+        border-radius: 8px;
+        border-style:outset;
+        border-image-outset: 10px;
+        padding: 0px 15px;
+        margin-right: 25px;
+        cursor: pointer;
+    
+    }
+    
+    .ann2 {
+        margin-top: 15px;
+        display:flex;
+        border-radius: 8px;
+        border-style:outset;
+        padding: 0px 10px;
+        margin-right: 25px;
+        cursor: pointer;
+    }
+    
+    #info{
+        display: flex
+    }
+    
+    #name{
+        margin-left: 15px;
+        margin-top: 20px;
+        margin-bottom: 10px;
+        font-size: small;
+    }
+    
+    
+    
+    #absent{
+        background:lightcoral;
+        border-radius: 18px;
+        padding:3px 8px;
+        margin:3px;
+        cursor: pointer;
+        color:red;
+        margin-top: 30px;
+        text-align: center;
+        font-size: small;
+    }
+    
+    .attendance{
+        margin-left: 450px;
+    }
+
+    #unittest{
+        font-size: small;
+    }
+    #eng{
+        font-size: small;
+    }
+    
+    #score{
+        background:lightgoldenrodyellow;
+        border-radius: 18px;
+        padding:3px 8px;
+        text-align: center;
+        margin:3px;
+        cursor: pointer;
+        color:brown;
+        margin-top: 30px;
+        font-size: small;
+    }
+    
+    .marks{
+        margin-left: 455px;
+    }
+    
+    #total{
+        margin-left:8px;
+        margin-top:30px;
+        font-size: medium;
+        margin-top:10px;
+    }
+    
+    #subject{
+        margin-bottom: 10px;
+    }
+    
+}
+
+
+@media only screen and (max-width: 720px){
+    #img1{
+        width:35px;
+        height:35px;
+        margin-top: 28px;
+    }
+    
+    .ann1 {
+        display: flex;
+        background:white;
+        border-radius: 8px;
+        border-style:outset;
+        border-image-outset: 10px;
+        padding: 0px 15px;
+        margin-right: 25px;
+        cursor: pointer;
+    
+    }
+    
+    .ann2 {
+        margin-top: 15px;
+        display:flex;
+        border-radius: 8px;
+        border-style:outset;
+        padding: 0px 10px;
+        margin-right: 25px;
+        cursor: pointer;
+    }
+    
+    #info{
+        display: flex
+    }
+    
+    #name{
+        margin-left: 15px;
+        margin-top: 20px;
+        margin-bottom: 10px;
+        font-size: small;
+    }
+    
+    
+    
+    #absent{
+        background:lightcoral;
+        border-radius: 18px;
+        padding:3px 8px;
+        margin:3px;
+        cursor: pointer;
+        color:red;
+        margin-top: 30px;
+        text-align: center;
+        font-size: small;
+    }
+    
+    .attendance{
+        margin-left: 415px;
+    }
+
+    #unittest{
+        font-size: small;
+    }
+    #eng{
+        font-size: small;
+    }
+    
+    #score{
+        background:lightgoldenrodyellow;
+        border-radius: 18px;
+        padding:3px 8px;
+        text-align: center;
+        margin:3px;
+        cursor: pointer;
+        color:brown;
+        margin-top: 30px;
+        font-size: small;
+    }
+    
+    .marks{
+        margin-left: 420px;
+    }
+    
+    #total{
+        margin-left:8px;
+        margin-top:30px;
+        font-size: medium;
+        margin-top:10px;
+    }
+    
+    #subject{
+        margin-bottom: 10px;
+    }
+    
+}
+
+@media only screen and (max-width: 668px){
+    #img1{
+        width:35px;
+        height:35px;
+        margin-top: 28px;
+    }
+    
+    .ann1 {
+        display: flex;
+        background:white;
+        border-radius: 8px;
+        border-style:outset;
+        border-image-outset: 10px;
+        padding: 0px 15px;
+        margin-right: 25px;
+        cursor: pointer;
+    
+    }
+    
+    .ann2 {
+        margin-top: 15px;
+        display:flex;
+        border-radius: 8px;
+        border-style:outset;
+        padding: 0px 10px;
+        margin-right: 25px;
+        cursor: pointer;
+    }
+    
+    #info{
+        display: flex
+    }
+    
+    #name{
+        margin-left: 15px;
+        margin-top: 20px;
+        margin-bottom: 10px;
+        font-size: small;
+    }
+    
+    
+    
+    #absent{
+        background:lightcoral;
+        border-radius: 18px;
+        padding:3px 8px;
+        margin:3px;
+        cursor: pointer;
+        color:red;
+        margin-top: 30px;
+        text-align: center;
+        font-size: small;
+    }
+    
+    .attendance{
+        margin-left: 340px;
+    }
+
+    #unittest{
+        font-size: small;
+    }
+    #eng{
+        font-size: small;
+    }
+    
+    #score{
+        background:lightgoldenrodyellow;
+        border-radius: 18px;
+        padding:3px 8px;
+        text-align: center;
+        margin:3px;
+        cursor: pointer;
+        color:brown;
+        margin-top: 30px;
+        font-size: small;
+    }
+    
+    .marks{
+        margin-left: 350px;
+    }
+    
+    #total{
+        margin-left:8px;
+        margin-top:30px;
+        font-size: medium;
+        margin-top:10px;
+    }
+    
+    #subject{
+        margin-bottom: 10px;
+    }
+    
+}
+
+@media only screen and (max-width: 597px){
+    #img1{
+        width:35px;
+        height:35px;
+        margin-top: 28px;
+    }
+    
+    .ann1 {
+        display: flex;
+        background:white;
+        border-radius: 8px;
+        border-style:outset;
+        border-image-outset: 10px;
+        padding: 0px 15px;
+        margin-right: 25px;
+        cursor: pointer;
+    
+    }
+    
+    .ann2 {
+        margin-top: 15px;
+        display:flex;
+        border-radius: 8px;
+        border-style:outset;
+        padding: 0px 10px;
+        margin-right: 25px;
+        cursor: pointer;
+    }
+    
+    #info{
+        display: flex
+    }
+    
+    #name{
+        margin-left: 15px;
+        margin-top: 20px;
+        margin-bottom: 10px;
+        font-size: small;
+    }
+    
+    
+    
+    #absent{
+        background:lightcoral;
+        border-radius: 18px;
+        padding:3px 8px;
+        margin:3px;
+        cursor: pointer;
+        color:red;
+        margin-top: 30px;
+        text-align: center;
+        font-size: small;
+    }
+    
+    .attendance{
+        margin-left: 270px;
+    }
+
+    #unittest{
+        font-size: small;
+    }
+    #eng{
+        font-size: small;
+    }
+    
+    #score{
+        background:lightgoldenrodyellow;
+        border-radius: 18px;
+        padding:3px 8px;
+        text-align: center;
+        margin:3px;
+        cursor: pointer;
+        color:brown;
+        margin-top: 30px;
+        font-size: small;
+    }
+    
+    .marks{
+        margin-left: 280px;
+    }
+    
+    #total{
+        margin-left:8px;
+        margin-top:30px;
+        font-size: medium;
+        margin-top:10px;
+    }
+    
+    #subject{
+        margin-bottom: 10px;
+    }
+    
+}
+
+@media only screen and (max-width: 527px){
+    #img1{
+        width:35px;
+        height:35px;
+        margin-top: 28px;
+    }
+    
+    .ann1 {
+        display: flex;
+        background:white;
+        border-radius: 8px;
+        border-style:outset;
+        border-image-outset: 10px;
+        padding: 0px 15px;
+        margin-right: 0px;
+        cursor: pointer;
+    
+    }
+    
+    .ann2 {
+        margin-top: 15px;
+        display:flex;
+        border-radius: 8px;
+        border-style:outset;
+        padding: 0px 10px;
+        margin-right: 0px;
+        cursor: pointer;
+    }
+    
+    #info{
+        display: flex
+    }
+    
+    #name{
+        margin-left: 15px;
+        margin-top: 20px;
+        margin-bottom: 10px;
+        font-size: small;
+    }
+    
+    
+    
+    #absent{
+        background:lightcoral;
+        border-radius: 18px;
+        padding:3px 8px;
+        margin:3px;
+        cursor: pointer;
+        color:red;
+        margin-top: 30px;
+        text-align: center;
+        font-size: small;
+    }
+    
+    .attendance{
+        margin-left: 270px;
+    }
+
+    #unittest{
+        font-size: small;
+    }
+    #eng{
+        font-size: small;
+    }
+    
+    #score{
+        background:lightgoldenrodyellow;
+        border-radius: 18px;
+        padding:3px 8px;
+        text-align: center;
+        margin:3px;
+        cursor: pointer;
+        color:brown;
+        margin-top: 30px;
+        font-size: small;
+    }
+    
+    .marks{
+        margin-left: 280px;
+    }
+    
+    #total{
+        margin-left:8px;
+        margin-top:30px;
+        font-size: medium;
+        margin-top:10px;
+    }
+    
+    #subject{
+        margin-bottom: 10px;
+    }
+    
+}
+
+@media only screen and (max-width: 501px){
+    #img1{
+        width:35px;
+        height:35px;
+        margin-top: 28px;
+    }
+    
+    .ann1 {
+        display: flex;
+        background:white;
+        border-radius: 8px;
+        border-style:outset;
+        border-image-outset: 10px;
+        padding: 0px 15px;
+        margin-right: 0px;
+        cursor: pointer;
+    
+    }
+    
+    .ann2 {
+        margin-top: 15px;
+        display:flex;
+        border-radius: 8px;
+        border-style:outset;
+        padding: 0px 10px;
+        margin-right: 0px;
+        cursor: pointer;
+    }
+    
+    #info{
+        display: flex
+    }
+    
+    #name{
+        margin-left: 15px;
+        margin-top: 20px;
+        margin-bottom: 10px;
+        font-size: small;
+    }
+    
+    
+    
+    #absent{
+        background:lightcoral;
+        border-radius: 18px;
+        padding:3px 8px;
+        margin:3px;
+        cursor: pointer;
+        color:red;
+        margin-top: 30px;
+        text-align: center;
+        font-size: small;
+    }
+    
+    .attendance{
+        margin-left: 240px;
+    }
+
+    #unittest{
+        font-size: small;
+    }
+    #eng{
+        font-size: small;
+    }
+    
+    #score{
+        background:lightgoldenrodyellow;
+        border-radius: 18px;
+        padding:3px 8px;
+        text-align: center;
+        margin:3px;
+        cursor: pointer;
+        color:brown;
+        margin-top: 30px;
+        font-size: small;
+    }
+    
+    .marks{
+        margin-left: 250px;
+    }
+    
+    #total{
+        margin-left:8px;
+        margin-top:30px;
+        font-size: medium;
+        margin-top:10px;
+    }
+    
+    #subject{
+        margin-bottom: 10px;
+    }
+    
+}
+
+@media only screen and (max-width: 471px){
+    #img1{
+        width:35px;
+        height:35px;
+        margin-top: 28px;
+    }
+    
+    .ann1 {
+        display: flex;
+        background:white;
+        border-radius: 8px;
+        border-style:outset;
+        border-image-outset: 10px;
+        padding: 0px 15px;
+        margin-right: 0px;
+        cursor: pointer;
+    
+    }
+    
+    .ann2 {
+        margin-top: 15px;
+        display:flex;
+        border-radius: 8px;
+        border-style:outset;
+        padding: 0px 10px;
+        margin-right: 0px;
+        cursor: pointer;
+    }
+    
+    #info{
+        display: flex
+    }
+    
+    #name{
+        margin-left: 15px;
+        margin-top: 20px;
+        margin-bottom: 10px;
+        font-size: small;
+    }
+    
+    
+    
+    #absent{
+        background:lightcoral;
+        border-radius: 18px;
+        padding:3px 8px;
+        margin:3px;
+        cursor: pointer;
+        color:red;
+        margin-top: 30px;
+        text-align: center;
+        font-size: small;
+    }
+    
+    .attendance{
+        margin-left: 200px;
+    }
+
+    #unittest{
+        font-size: small;
+    }
+    #eng{
+        font-size: small;
+    }
+    
+    #score{
+        background:lightgoldenrodyellow;
+        border-radius: 18px;
+        padding:3px 8px;
+        text-align: center;
+        margin:3px;
+        cursor: pointer;
+        color:brown;
+        margin-top: 30px;
+        font-size: small;
+    }
+    
+    .marks{
+        margin-left: 210px;
+    }
+    
+    #total{
+        margin-left:8px;
+        margin-top:30px;
+        font-size: medium;
+        margin-top:10px;
+    }
+    
+    #subject{
+        margin-bottom: 10px;
+    }
+    
+}
+
+@media only screen and (max-width: 431px){
+    #img1{
+        width:25px;
+        height:25px;
+        margin-top: 28px;
+    }
+    
+    .ann1 {
+        display: flex;
+        background:white;
+        border-radius: 8px;
+        border-style:outset;
+        border-image-outset: 10px;
+        padding: 0px 15px;
+        margin-right: 0px;
+        cursor: pointer;
+    
+    }
+    
+    .ann2 {
+        margin-top: 15px;
+        display:flex;
+        border-radius: 8px;
+        border-style:outset;
+        padding: 0px 10px;
+        margin-right: 0px;
+        cursor: pointer;
+    }
+    
+    #info{
+        display: flex
+    }
+    
+    #name{
+        margin-left: 15px;
+        margin-top: 20px;
+        margin-bottom: 10px;
+        font-size: small;
+    }
+    
+    
+    
+    #absent{
+        background:lightcoral;
+        border-radius: 18px;
+        padding:3px 8px;
+        margin:3px;
+        cursor: pointer;
+        color:red;
+        margin-top: 30px;
+        text-align: center;
+        font-size: small;
+    }
+    
+    .attendance{
+        margin-left: 160px;
+    }
+
+    #unittest{
+        font-size: small;
+    }
+    #eng{
+        font-size: small;
+    }
+    
+    #score{
+        background:lightgoldenrodyellow;
+        border-radius: 18px;
+        padding:3px 8px;
+        text-align: center;
+        margin:3px;
+        cursor: pointer;
+        color:brown;
+        margin-top: 30px;
+        font-size: small;
+    }
+    
+    .marks{
+        margin-left: 170px;
+    }
+    
+    #total{
+        margin-left:8px;
+        margin-top:30px;
+        font-size: medium;
+        margin-top:10px;
+    }
+    
+    #subject{
+        margin-bottom: 10px;
+    }
+    
+}
+
+@media only screen and (max-width: 379px){
+    #img1{
+        width:25px;
+        height:25px;
+        margin-top: 28px;
+    }
+    
+    .ann1 {
+        display: flex;
+        background:white;
+        border-radius: 8px;
+        border-style:outset;
+        border-image-outset: 10px;
+        padding: 0px 15px;
+        
+        cursor: pointer;
+    
+    }
+    
+    .ann2 {
+        margin-top: 15px;
+        display:flex;
+        border-radius: 8px;
+        border-style:outset;
+        padding: 0px 10px;
+        margin-right: 0px;
+        cursor: pointer;
+    }
+    
+    #info{
+        display: flex
+    }
+    
+    #name{
+        margin-left: 15px;
+        margin-top: 20px;
+        margin-bottom: 10px;
+        font-size: small;
+    }
+    
+    
+    
+    #absent{
+        background:lightcoral;
+        border-radius: 18px;
+        padding:3px 8px;
+        margin:3px;
+        cursor: pointer;
+        color:red;
+        margin-top: 30px;
+        text-align: center;
+        font-size: small;
+    }
+    
+    .attendance{
+        margin-left: 120px;
+    }
+
+    #unittest{
+        font-size: small;
+    }
+    #eng{
+        font-size: small;
+    }
+    
+    #score{
+        background:lightgoldenrodyellow;
+        border-radius: 18px;
+        padding:3px 8px;
+        text-align: center;
+        margin:3px;
+        cursor: pointer;
+        color:brown;
+        margin-top: 30px;
+        font-size: small;
+    }
+    
+    .marks{
+        margin-left: 130px;
+    }
+    
+    #total{
+        margin-left:8px;
+        margin-top:30px;
+        font-size: medium;
+        margin-top:10px;
+    }
+    
+    #subject{
+        margin-bottom: 10px;
+    }
+    
+}
+
+  
