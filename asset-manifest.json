@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/astrawebassignment/static/css/main.aecb4511.css",
+    "main.js": "/astrawebassignment/static/js/main.2cd420ff.js",
+    "static/js/787.50d8ab40.chunk.js": "/astrawebassignment/static/js/787.50d8ab40.chunk.js",
+    "index.html": "/astrawebassignment/index.html",
+    "main.aecb4511.css.map": "/astrawebassignment/static/css/main.aecb4511.css.map",
+    "main.2cd420ff.js.map": "/astrawebassignment/static/js/main.2cd420ff.js.map",
+    "787.50d8ab40.chunk.js.map": "/astrawebassignment/static/js/787.50d8ab40.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aecb4511.css",
+    "static/js/main.2cd420ff.js"
+  ]
+}
